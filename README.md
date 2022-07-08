@@ -2,5 +2,7 @@
 
 
 
-## GIT $ Github
+## Git $ Github
+
+### Git의 의미
 
